@@ -11,6 +11,8 @@
   "dependencies": {
     "feed": "^0.3.0",
     "feedme": "^0.3.0",
-    "mocha": "^2.4.5"
+    "json2xml": "^0.1.2",
+    "mocha": "^2.4.5",
+    "xml2js": "^0.4.16"
   }
 }
